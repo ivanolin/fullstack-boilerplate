@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "graphql-yoga": "^1.15.1",
+    "mongodb": "^3.1.1",
+    "nodemon": "^1.18.3"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
